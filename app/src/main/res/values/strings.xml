@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App_Gasto_viagem</string>
+    <string name="acomodation">Acomodação: </string>
+    <string name="tickets">Passagens: </string>
+    <string name="transport">Transporte: </string>
+    <string name="alimentation">Alimentacao: </string>
+    <string name="atractions">Atrações: </string>
+    <string name="extra_expenses">Despesas Extras: </string>
+    <string name="total_spend_travel">Seu gasto total na viagem será de:  </string>
+    <string name="total_value">R$ 0 </string>
+    <string name="calculate">CALCULAR</string>
+    <string name="validation_fill_all_fields">"Preencha todos os campos"</string>
+
+
+
+
+</resources>
