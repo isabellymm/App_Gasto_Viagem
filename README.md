@@ -20,6 +20,3 @@ Este é um projeto em Kotlin que visa criar um aplicativo simples para calcular 
  - **Arquitetura MVVM** para separar a lógica de negócios da interface do usuário.
  - **Boas práticas de desenvolvimento de software**, como código limpo e organização de arquivos.
  
- ### Contato
- Email: isabellymartinsmota6@gmail.com
-
